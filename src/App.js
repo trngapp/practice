@@ -1,5 +1,4 @@
 import React ,{ useState,createContext} from 'react'
-import CompA from './ComponentA'
 import './App.css';
 
 const firstname=createContext();
